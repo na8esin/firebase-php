@@ -1,0 +1,12 @@
+{
+    "name": "web/firebase-php",
+    "require": {
+        "kreait/firebase-php": "^5.10"
+    },
+    "authors": [
+        {
+            "name": "t.watanabe",
+            "email": "t.watanabe@ifcreate.co.jp"
+        }
+    ]
+}
